@@ -1,2 +1,2 @@
 # museum-of-candy-project
-museum of candy project code-along
+CodeAlong of the 'Museum of Candy' Project using Bootstrap
